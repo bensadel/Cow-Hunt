@@ -1,6 +1,6 @@
 # cowhunt
 
-Cow Hunt is a web app game - the user's goal is to find the owl by clicking or typing the name of a block before your health runs out. This game has three different difficulties - each becomes progressively more difficult to find the cow.
+Cow Hunt is a web app game - the user's goal is to find the cow by clicking or typing the name of a block before your health runs out. This game has three different difficulties - each becomes progressively more difficult to find the cow.
 
 <p align="center">
   <img src="https://github.com/bensadel/Cow-Hunt/assets/95494769/52d5e24d-e8ef-4891-ba30-b9182d5722af">
