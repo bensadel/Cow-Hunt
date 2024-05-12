@@ -9,6 +9,7 @@ Cow Hunt is a web app game - the user's goal is to find the cow by clicking or t
 * Bootstrap
 * jQuery
 
+<br>
 
 <b><ins>Example:</ins></b>
 
